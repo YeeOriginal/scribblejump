@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Scribble Jump</string>
+    <string name="game_over">Game Over!</string>
+    <string name="sound">Sound</string>
+    <string name="scribble_jump">Scribble Jump</string>
+    <string name="current_high_score">Current high score:</string>
+    <string name="score">Score:</string>
+</resources>
